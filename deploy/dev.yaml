@@ -6,4 +6,4 @@ metadata:
   labels: {}
 description: dev
 gke:
-  cluster: projects/dtonic-demo-k8s/locations/us-central1/clusters/cluster-1
+  cluster: projects/dtonic-demo-k8s/locations/us-central1-c/clusters/cluster-1
